@@ -1,0 +1,93 @@
+[
+    {
+        "titre" : "Sen dönene kadar",
+        "image" : "img/musique1.webp",
+        "alt" : "Image-lien : représente la 1ère musique et son lien pour écouter",
+        "descriptionMusicale" : "Hadise est une artiste que j'admire énormément, elle a une énergie unique. J'aime cette musique car, avant tout, c'est elle qui la chante ! C'est une femme qui m'inspire réellement, un véritable exemple à suivre. De plus, le rythme et les paroles me rappellent l'été, ce qui me met automatiquement de bonne humeur.",
+        "extrait" : "audio/musique1-audio.mp3",
+        "urlMusique" : "https://www.youtube.com/watch?v=TubBHbjRTrs",
+        "infosProprieteIntellectuelle" : "Interprètes : Murda et Hadise;  Auteur/Compositeur : Spanker; Producteur : Spanker; 2023."
+    },
+    {
+        "titre" : "Мой мармеладнъій",
+        "image" : "img/musique2.webp",
+        "alt" : "Image-lien : représente la 2e musique et son lien pour écouter",
+        "descriptionMusicale" : "J'ai toujours été fascinée par la langue russe, et cette musique, avec ses notes douces, m'a immédiatement tapé à l'œil. Katya Lel a une voix unique qui ajoute beaucoup d'émotion à la chanson. Je l'ai découverte sur TikTok, et j'ai vraiment adoré. De plus, son côté girly et léger m'a particulièrement plu.",
+        "extrait" : "audio/musique2-audio.mp3",
+        "urlMusique" : "https://www.youtube.com/watch?v=0JMdXFHo5SY",
+        "infosProprieteIntellectuelle" : "Interprète :  Катя Лель; Auteur/Compositeur : Фадеев М.; Producteur : Izdatelstvo Monolit; 2010."
+    },
+    {
+        "titre" : "Bole Chudiyan",
+        "image" : "img/musique3.webp",
+        "alt" : "Image-lien : représente la 3e musique et son lien pour écouter",
+        "descriptionMusicale" : "J'ai commencé à apprécier cette musique il y a deux ans, et elle me rappelle encore le jour de mon bac de français. Ma copine et moi adorions cette chanson, et nous la chantions ensemble en rentrant, hihi. De plus, j'adore la chorégraphie et les bracelets des artistes. J'en ai aussi, ce qui me permet de me sentir encore plus proche à leur univers !",
+        "extrait" : "audio/musique3-audio.mp3",
+        "urlMusique" : "https://www.youtube.com/watch?v=IBvg3WeqP1U",
+        "infosProprieteIntellectuelle" : "Interprète : Jatin-Lalit; Auteurs/Compositeurs : Jatin Pandit, Lalit Pandit, Sameer Anjaan; Producteur : Sony Music Entertainment India Pvt. Ltd; 2001."
+    },
+    {
+        "titre" : "Çek kamaraci",
+        "image" : "img/musique4.webp",
+        "alt" : "Image-lien : représente la 4e musique et son lien pour écouter",
+        "descriptionMusicale" : "Cette musique fait partie du style musical Roman Havasi, un genre turc que j'apprécie particulièrement. C'est une population en Turquie que j'aime réellement ! J'aime profondément cette culture, la danse qui l'accompagne, et l'authenticité qu'elle dégage. Les paroles de cette chanson me reflètent vraiment!",
+        "extrait" : "audio/musique4-audio.mp3",
+        "urlMusique" : "https://www.youtube.com/watch?v=CWvlq2as8vc",
+        "infosProprieteIntellectuelle" : "Interprètes : Şenol Evgi, Gizo; Auteurs/Compositeurs : Şenol Evgi; Producteur : EVG Müzik; 2024."
+    },
+    {
+        "titre" : "Şemmame",
+        "image" : "img/musique5.webp",
+        "alt" : "Image-lien : représente la 5e musique et son lien pour écouter",
+        "descriptionMusicale" : "Je ne pouvais pas faire cette playlist sans inclure du halay. C'est une danse traditionnelle, pratiquée chez les Turcs et les Kurdes, qui fait partie de mon héritage culturel. Ce halay, en particulier, est le premier que j'écoutes depuis mon enfance. Quand je suis fatiguée le matin en venant à l'IUT, j'écoute cette musique, elle me donne immédiatement de l'énergie. Et bien sûr, je n'oublies jamais de prendre mon mouchoir du halay !",
+        "extrait" : "audio/musique5-audio.mp3",
+        "urlMusique" : "https://www.youtube.com/watch?v=E_zUxFrJ_SE",
+        "infosProprieteIntellectuelle" : "Interprète : İbrahim Tatlıses; Auteur/Compositeur : İbrahim Tatlıses, Producteur : İdobay Müzik Yapım; 2009."
+    },
+    
+    {
+        "titre" : "Mode Akimbo",
+        "image" : "img/musique6.webp",
+        "alt" : "Image-lien : représente la 6e musique et son lien pour écouter",
+        "descriptionMusicale" : "J'aime beaucoup SCH, son style vestimentaire, sa musique, et, bien sûr, ses cheveux ! Cette chanson me plaît encore plus car il y a aussi Jul. La voix de SCH est vraiment incroyable, elle apporte vraiment du peps à la musique. C'est un véritable coup de cœur pour moi, je ne me lasse jamais d'écouter cette musique.",
+        "extrait" : "audio/musique6-audio.mp3",
+        "urlMusique" : "https://www.youtube.com/watch?v=GEKneHK9Gaw",
+        "infosProprieteIntellectuelle" : "Interprètes : SCH, Jul; Auteurs/Compositeurs : SCH, Jul, Zeg P; Producteur : SCH; 2021."
+    },
+    {
+        "titre" : "Amek Askhedmegh i wul iw",
+        "image" : "img/musique7.webp",
+        "alt" : "Image-lien : représente la 7e musique et son lien pour écouter",
+        "descriptionMusicale" : "J'apprécie les musiques maghrébines. Même si je ne comprends absolument rien des paroles. Pour moi, la musique, c'est avant tout une question de ressenti, sans avoir besoin de comprendre chaque mot. J'ai découvert cette chanson lors d'un mariage, et dès qu'elle commence vous êtes comme poussé à danser sans réfléchir.",
+        "extrait" : "audio/musique7-audio.mp3",
+        "urlMusique" : "https://www.youtube.com/watch?v=twx8izz-25w",
+        "infosProprieteIntellectuelle" : "Interprète : Tahar Anza; Auteur/Compositeur : Tahar Anza; Producteur : IRATH MUSIC; 2022."
+    },
+    {
+        "titre" : "Ma jolie",
+        "image" : "img/musique8.webp",
+        "alt" : "Image-lien : représente la 8e musique et son lien pour écouter",
+        "descriptionMusicale" : "Bien évidemment, JUL ! J'étais une très grande fan de lui à l'époque. Même si ses récentes musiques ne me touchent plus autant qu'avant, cette chanson restera pour moi une véritable masterclass. Elle me rappelle énormément de souvenirs avec ma cousine et ma sœur, nos sorties à la montagne accompagnées par les sangliers. Ce morceau évoque pour moi une époque de rires, de bonne humeur, et de moments sans souci (se révellier tôt pour aller en cours).",
+        "extrait" : "audio/musique8-audio.mp3",
+        "urlMusique" : "https://www.youtube.com/watch?v=Zk27hKhuiyg",
+        "infosProprieteIntellectuelle" : "Interprète : JUL; Auteur/Compositeur : JUL; Producteur : D'Or et de Platine; 2017."
+    },
+    {
+        "titre" : "Sientate En Ese Deo",
+        "image" : "img/musique9.webp",
+        "alt" : "Image-lien : représente la 9e musique et son lien pour écouter",
+        "descriptionMusicale" : "Je ne comprends absolument rien de cette musique non plus, et je ne regarde jamais les paroles. Ce qui me touche avant tout, c'est l'ambiance de la musique. Je l'ai découverte sur TikTok. La vibe qu'elle dégage est pleine d'énergie. En plus, El Alfa est dominicain, ce qui me rappelle à quel point j'aimerais visiter la République dominicaine un jour. C'est un pays qui me fascine et que je vais de découvrir.",
+        "extrait" : "audio/musique9-audio.mp3",
+        "urlMusique" : "https://www.youtube.com/watch?v=8u5TNQ6o9-U",
+        "infosProprieteIntellectuelle" : "Interprète : El Alfa; Auteur/Compositeur : Emanuel Herrera Batista; Producteur : EL JEFE RECORDS LLC; 2018."
+    },
+    {
+        "titre" : "Validée",
+        "image" : "img/musique10.webp",
+        "alt" : "Image-lien : représente la 10e musique et son lien pour écouter",
+        "descriptionMusicale" : "J'ADORE cette musique. Je ressens les paroles en moi, même si je n'ai pas vécu ce qu'il décrit, ce qui montre le talent incroyable de Booba ! Le rythme de la chanson me captive à chaque écoute. Cette musique est sortie quand j'avais 9 ans, mais, elle reste totalement indémodable et toujours aussi forte. C'est un morceau qui traverse le temps sans perdre de sa force…",
+        "extrait" : "audio/musique10-audio.mp3",
+        "urlMusique" : "https://www.youtube.com/watch?v=35_YJNHFkWA",
+        "infosProprieteIntellectuelle" : "Interprètes : Booba, Benash; Auteur/Compositeur : Hi Stakes; Producteur : Hi Stakes; Producteur : Universal Music Distribution Deal; 2015."
+    }
+]

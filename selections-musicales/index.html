@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SAVEURS MUSICALES DE HNA</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Gidugu&display=swap" rel="stylesheet">
+
+    <link rel="icon" type="image/png" href="img/favicon.png">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Limelight&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+
+<body>
+
+<main>
+    <div class="contenuPrincipal">
+        <h1>EXPLORE LES SAVEURS MUSICALES ATYPIQUES DE HNA !</h1>
+    </div>
+</main>
+
+<section class="bloc-des-musiques">
+    <div class="liste-musiques"></div> 
+</section>
+
+
+<br><br><br><br><br><br>
+
+<!-- Je fais mon formulaire -->
+<form action="">
+    <fieldset>
+        <legend>Suggère un album/un morceau !</legend>
+
+        <p class="txt-required">
+            Les champs marqués de l'astérisque rouge sont obligatoires.
+        </p>
+
+        <p>
+            <label class="label"  for="email">Ton email (maximum 254 carctères et dans le format suivant : exemple@domaine.com) :<span class="star-required">*</span></label><br>
+            <input id="email" type="email" aria-label="Envoyer votre email" name="email" required aria-describedby="email-erreur" maxlength="254">
+            <p id="email-erreur" class="erreur">Veuillez entrer un email valide. Exemple : exemple@domaine.com </p>
+        </p>
+
+        <p>
+            <label  class="label" for="titre">Le titre de la musique : <span class="star-required">*</span></label><br>
+            <input type="text" aria-label="Envoyer votre titre" name="titre" id="titre" required aria-describedby="titre-erreur">
+            <p id="titre-erreur" class="erreur">Veuillez entrer un titre.</p>
+        </p>
+
+        <p>
+            <label class="label" for="description">Pourquoi ce choix (maximum 500 caractères) ? <span class="star-required">*</span></label><br>
+            <textarea rows="5" cols="60" name="description" id="description" required aria-describedby="description-erreur" maxlength="500"></textarea>
+            <p id="description-erreur" class="erreur">Veuillez entrer une description.</p>
+        </p>
+
+        <p>
+            <label class="label" for="urlAudio">Entre l'URL (sous la forme de https://www.example.com) pour écouter la musique ! <span class="star-required">*</span></label><br>
+            <input type="url" aria-label="Envoyer l'url de votre audio" name="URL" id="urlAudio" required aria-describedby="url-erreur">
+            <p id="url-erreur" class="erreur">Veuillez entrer une url valide. Exemple : https://www.example.com</p>
+        </p>
+
+    <!-- J'enlève ce code car nous devons utiliser un input de type button pour la partie js -->
+    <!-- <label for="submit"></label><br>
+    <input type="submit" name="Envoyer" id="submit"> -->
+
+        <p>
+            <input type="button" aria-label="Envoyer le formulaire" value="Envoyer" id="envoyer">
+        </p>
+    </fieldset>
+</form>
+
+
+<br><br><br><br><br><br>
+
+
+    <!-- Je créé une div pour la nouvelle rubrique qui va être formé à partir des données saisies par l'internaute -->
+<section class="content-rubrique">
+    <div class="rubrique">
+        <h3>Ton ajout ! </h3>
+        <p id="nouvel-email">Ton email : </p>
+        <p id="nouveau-titre">Titre : </p>
+        <p id="nouvelle-description">Description : </p>
+        <p id="nouvel-audio">L'audio : </p>
+    </div>
+</section>
+
+
+<!-- J'ajoute le pied de page -->
+<footer>
+    <p>
+        <p>Copyright © 2024 ACAR Hayrunnisa, Tous droits réservés</p>
+        <p>Les images viennent de Spotify et Pinterest</p>
+        <p>Tous les extraits musicaux sont fournis à des fins pédagogiques et appartiennent à leurs auteurs et producteurs, conformément aux droits d'auteur.</p>
+        <p><a class="contact" aria-label="Contacter le propriétaire du site" href="mailto:acarhayrunnisa42@gmail.com">Contact</a>
+    </p>
+</footer>
+
+<p><a class="haut-de-page" href="#" aria-label="Retourner en haut de la page">🔝</a></p>
+
+
+<!-- Je met en tout dernier mes fichiers js pur qu'ils soient chargés à la fin  -->
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+
+</body>
+</html>
